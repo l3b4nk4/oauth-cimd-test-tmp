@@ -1,8 +1,1 @@
-{
-  "client_id": "https://cdn.jsdelivr.net/gh/l3b4nk4/oauth-cimd-test-tmp@v1/client-metadata.json",
-  "client_name": "Test MCP Client",
-  "redirect_uris": ["https://webhook.site/962e11b9-f455-40bf-a1c0-f993fa59850a"],
-  "response_types": ["code"],
-  "grant_types": ["authorization_code"],
-  "token_endpoint_auth_method": "none"
-}
+{}
