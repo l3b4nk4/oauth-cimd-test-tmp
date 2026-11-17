@@ -1,0 +1,8 @@
+{
+  "client_id": "https://raw.githubusercontent.com/l3b4nk4/oauth-cimd-test-tmp/main/client-metadata.json",
+  "client_name": "Test MCP Client (security research)",
+  "redirect_uris": ["https://webhook.site/9972809d-e513-4452-8678-0546b545c8c2"],
+  "response_types": ["code"],
+  "grant_types": ["authorization_code"],
+  "token_endpoint_auth_method": "none"
+}
